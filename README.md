@@ -1,8 +1,8 @@
 # Home-Sales--SparkSQL
 
 ### Analysis:
-
-What Worked:
+---
+<b>What worked:</b><br>
 
 Average Price for 4-Bedroom Houses by Year:
 
@@ -26,7 +26,8 @@ Caching the home_sales table was a strategic move to speed up subsequent queries
 Handling Parquet Data:
 
 The code efficiently writes data in Parquet format, partitioned by the date_built field. Reading and creating a temporary view for the Parquet data demonstrates proficiency in handling different data formats.
-What Didn't:
+
+<b>What didn't work:</b><br>
 
 There are no major issues with the provided code. However, it's important to consider the following recommendations for future improvement:
 
