@@ -27,6 +27,7 @@ Handling Parquet Data:
 
 The code efficiently writes data in Parquet format, partitioned by the date_built field. Reading and creating a temporary view for the Parquet data demonstrates proficiency in handling different data formats.
 
+
 ---
 <b>What didn't work:</b><br>
 
