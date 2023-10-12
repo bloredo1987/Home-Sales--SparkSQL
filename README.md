@@ -1,6 +1,6 @@
 # Home-Sales--SparkSQL
 
-# Analysis:
+--Analysis:
 
 What Worked:
 
